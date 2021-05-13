@@ -12,7 +12,5 @@ once a repository was created and stalk me. 🕵️‍♂️
 
 ![Mahdy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdymirzade&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdymirzade&theme=dracula)](https://github.com/mahdymirzade)
-
-[![Mahdy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahdymirzade&theme=dracula&layout=compact)](https://github.com/mahdymirzade)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdymirzade&theme=dracula&layout=compact)](https://github.com/mahdymirzade)
 
