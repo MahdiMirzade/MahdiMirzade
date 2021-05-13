@@ -10,7 +10,10 @@ once a repository was created and stalk me. 🕵️‍♂️
 - **📫 Contact me:** me@mahdy.fun
 - **⚡ Fun fact:** Did you know my first program was a chat spammer instead of a lame 'hello world'?
 
-![Mahdy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdymirzade&show_icons=true&theme=dracula)
+<p align="center">![Mahdy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdymirzade&show_icons=true&theme=dracula)</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdymirzade&theme=dracula&layout=compact)](https://github.com/mahdymirzade)
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdymirzade&theme=dracula&layout=compact)](https://github.com/mahdymirzade)</p>
 
+[![Dotfiles Card](https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=dotfiles&theme=dracula)](https://github.com/mahdymirzade/dotfiles)
+
+[![EasyMacOS Card](https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=easymacos&theme=dracula)](https://github.com/mahdymirzade/easymacos)
