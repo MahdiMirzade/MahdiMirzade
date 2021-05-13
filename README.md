@@ -10,5 +10,7 @@ once a repository was created and stalk me. 🕵️‍♂️
 - **📫 Contact me:** me@mahdy.fun
 - **⚡ Fun fact:** Did you know my first program was a chat spammer instead of a lame 'hello world'?
 
-![Mahdy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdymirzade&show_icons=true&theme=radical)
+![Mahdy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdymirzade&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdymirzade&layout=compact)](https://github.com/mahdymirzade)
 
