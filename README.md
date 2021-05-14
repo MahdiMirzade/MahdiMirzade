@@ -31,7 +31,7 @@
   <a href="https://github.com/mahdymirzade/botlib">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=botlib&theme=dracula&bg_color=00000000&hide=bg-color&hide_border=true">
   </a>
-  <a href="https://github.com/mahdymirzade/xgine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=xgine&theme=dracula&bg_color=00000000&hide=bg-color&hide_border=true">
+  <a href="https://github.com/mahdymirzade/lmddgtfy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=lmddgtfy&theme=dracula&bg_color=00000000&hide=bg-color&hide_border=true">
   </a>
 </p>
