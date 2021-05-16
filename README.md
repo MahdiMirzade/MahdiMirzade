@@ -16,7 +16,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahdymirzade&show_icons=true&theme=dracula&bg_color=00000000&hide=bg-color&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdymirzade&theme=dracula&layout=compact&bg_color=00000000&hide=bg-color&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mahdymirzade&theme=dracula&bg_color=00000000&hide=bg-color&hide_border=true">
 </p>
 
 <h3 align="center">My Fav Repositories</h1>
