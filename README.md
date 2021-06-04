@@ -16,9 +16,9 @@
 <img align="right" src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/gifs/planet.gif" width="320px"/>
 
 ### <img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/gifs/banana.idea.gif" width="50px"/> I'm...
-- 💻 currently working for **myself**.
-- 📕 currently studying for **my school exams**.
-- 🌱 currently learning **Web Application Development**.
+- :computer: currently working for **myself**.
+- :books: currently studying for **my school exams**.
+- :seedling: currently learning **Web Application Development**.
 
 <img src="https://github-readme-stats.vercel.app/api?username=mahdymirzade&show_icons=true&theme=nightowl">
 
