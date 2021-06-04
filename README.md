@@ -14,23 +14,23 @@
 - 🌱 currently learning **Web Application Development**.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdymirzade&show_icons=true&theme=gotham&bg_color=00000000&hide=bg-color&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdymirzade&theme=gotham&layout=compact&bg_color=00000000&hide=bg-color&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdymirzade&show_icons=true&theme=blue-green&bg_color=00000000&hide=bg-color&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdymirzade&theme=blue-green&layout=compact&bg_color=00000000&hide=bg-color&hide_border=true">
 </p>
 
 <h3 align="center">My Fav Repositories</h1>
 
 <p align="center">
   <a href="https://github.com/mahdymirzade/dotfiles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=dotfiles&theme=gotham&bg_color=00000000&hide=bg-color&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=dotfiles&theme=blue-green&bg_color=00000000&hide=bg-color&hide_border=true">
   </a>
   <a href="https://github.com/mahdymirzade/easymacos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=easymacos&theme=gotham&bg_color=00000000&hide=bg-color&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=easymacos&theme=blue-green&bg_color=00000000&hide=bg-color&hide_border=true">
   </a>
   <a href="https://github.com/mahdymirzade/botlib">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=botlib&theme=gotham&bg_color=00000000&hide=bg-color&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=botlib&theme=blue-green&bg_color=00000000&hide=bg-color&hide_border=true">
   </a>
   <a href="https://github.com/mahdymirzade/lmddgtfy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=lmddgtfy&theme=gotham&bg_color=00000000&hide=bg-color&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=lmddgtfy&theme=blue-green&bg_color=00000000&hide=bg-color&hide_border=true">
   </a>
 </p>
