@@ -14,23 +14,23 @@
 - 🌱 currently learning **Web Application Development**.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdymirzade&show_icons=true&theme=gruvbox&bg_color=00000000&hide=bg-color&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdymirzade&theme=gruvbox&layout=compact&bg_color=00000000&hide=bg-color&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdymirzade&show_icons=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdymirzade&layout=compact&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true">
 </p>
 
 <h3 align="center">My Fav Repositories</h1>
 
 <p align="center">
   <a href="https://github.com/mahdymirzade/dotfiles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=dotfiles&theme=gruvbox&bg_color=00000000&hide=bg-color&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=dotfiles&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true">
   </a>
   <a href="https://github.com/mahdymirzade/easymacos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=easymacos&theme=gruvbox&bg_color=00000000&hide=bg-color&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=easymacos&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true">
   </a>
   <a href="https://github.com/mahdymirzade/botlib">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=botlib&theme=gruvbox&bg_color=00000000&hide=bg-color&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=botlib&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true">
   </a>
   <a href="https://github.com/mahdymirzade/lmddgtfy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=lmddgtfy&theme=gruvbox&bg_color=00000000&hide=bg-color&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdymirzade&repo=lmddgtfy&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true">
   </a>
 </p>
