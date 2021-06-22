@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/gifs/hello.gif" width="50px"/>
   Hey, Mahdy's Here
 </h1>
-<h3 align="center">A 17 years old guy, system administrator and math student.</h3>
+<h3 align="center">A guy, system administrator and math student.</h3>
 <p align="center">
   <a href="mailto://me@mahdym.ir" target="blank"><img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/icons/socials/mail.svg" alt="Mahdy's Email" height="22px" /></a>
   <a href="https://telegram.me/MahdyMirzade" target="blank"><img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/icons/socials/telegram.svg" alt="Mahdy's Private Telegram" height="22px" /></a>
