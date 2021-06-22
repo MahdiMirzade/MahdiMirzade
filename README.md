@@ -17,10 +17,11 @@
 
 ### <img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/gifs/banana.idea.gif" width="50px"/> I'm...
 - :computer: currently working for **myself**.
-- :books: currently studying for **my school exams**.
 - :seedling: currently learning **Web Application Development**.
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahdymirzade&show_icons=true&theme=nightowl">
+<a href="https://github.com/anuraghazra/github-readme-stats" alt="Thanks to Anurag Hazra for his great Github Readme Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdymirzade&show_icons=true&theme=nightowl">
+</a>
 
 ### <img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/gifs/potato.dancing.gif" width="50px"/> Familiar with:
 <p>
